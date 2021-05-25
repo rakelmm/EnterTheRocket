@@ -1,6 +1,6 @@
-# Formúlario animado com JS puro e CSS Animation
+# 🚀 Formúlario animado com JS puro e CSS Animation 🚀
 
-## O que foi feito
+## 📝 O que foi feito
 
 - [x] O formulário aparece suavimente quando a página abre.
 - [x] Os campos aparecem da esquerda para direita e entram em momentos distintos.
