@@ -39,6 +39,7 @@ saem em momentos diferentes, tem timing diferentes e a animação contínua.
 podemos ter múltiplas animações no mesmo elemento
 
 .animate {
+
   animation: slide-top 2s, bounce 1s, fade 0.2s;
   
 }
