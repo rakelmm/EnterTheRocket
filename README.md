@@ -1,4 +1,4 @@
-# 🚀 Formúlario animado com JS puro e CSS Animation 🚀
+# 🚀 Formulário animado com JS puro e CSS Animation 🚀
 
 ## 📝 O que foi feito
 
