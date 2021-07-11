@@ -40,6 +40,6 @@ podemos ter múltiplas animações no mesmo elemento
 
 .animate {
 
-  animation: slide-top 2s, bounce 1s, fade 0.2s;
+    animation: slide-top 2s, bounce 1s, fade 0.2s;
   
 }
